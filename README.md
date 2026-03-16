@@ -26,7 +26,7 @@ This repository contains the **frontend application responsible for**:
 
 - Planner scanning interface
 - Schedule preview editor
-- Timeline editing UI
+- Form-base editor
 - Planner history views
 - Calendar export actions
 
