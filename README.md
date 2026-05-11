@@ -1,4 +1,5 @@
-
+> 🚧 **Under Active Development** — This project is currently in MVP phase.
+> Core architecture is in place; features are being implemented incrementally.
 # 📅 PlannerFlow Web
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
